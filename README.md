@@ -21,21 +21,21 @@ Instrumento de evaluación de la Unidad I de la materia Aplicaciones de IoT
 - I. Adquisición y Procesamiento de Datos
 
 ## Link a carpeta con vídeos de demostración.
-- [Carpeta Completa](https://drive.google.com/drive/folders/1t1U8t79hUxCkGnss0xsPOuj4m-oCV8Im?usp=drive_link)
+- [Carpeta Completa]()
 
 ## Actividades en pareja.
-- [Actividad 1 y 2 parejas](https://drive.google.com/file/d/1AY2FTR8uPCJS0bn5l2eF9jXhlDHp-9AZ/view?usp=drive_link)
+- [Actividad 1 y 2 parejas]()
 ### Códigos:
-- [Diagrama de conexión](https://drive.google.com/file/d/1BBMqcXRfcAkuH-qIF29YJuWEf-ynKbIy/view?usp=drive_link)
+- [Diagrama de conexión]()
 
-- [Código Python Documentado](https://drive.google.com/file/d/1mcfwI6i9l2nr-09p4t0DR2D_Nwgsa7rn/view?usp=drive_link)
+- [Código Python Documentado]()
 
 ## Actividades individuales.
-- [CRUD en PostgreSQL](https://drive.google.com/file/d/1PkWyeWwjPNzwnqLOt63gcUZfbxzAmDb1/view?usp=drive_link)
-- [Instalación y Configuraciones Básicas](https://drive.google.com/file/d/16CI9v2FEhKU4_qPN3p96XlsLyfAJSfV5/view?usp=drive_lin)
-- [LED y Botón con Raspberry Pi](https://drive.google.com/file/d/1LDSNreH223prNx8Q7Yzjva9aW6vR8lIO/view?usp=drive_link)
-- [LED con Raspberry Pi](https://drive.google.com/file/d/1k8_ygdkSOHWrOXoa1LoVQC-LuSm0Ei4v/view?usp=drive_link)
-- [Conexión MQTT en Node-RED](https://drive.google.com/file/d/1P6hpbPVd6mowNhcBRhz3o0vhynZU9-ww/view?usp=drive_link)
+- [CRUD en PostgreSQL]()
+- [Instalación y Configuraciones Básicas]()
+- [LED y Botón con Raspberry Pi]()
+- [LED con Raspberry Pi]()
+- [Conexión MQTT en Node-RED]()
 
 ## Placa Fenólica
 | Imagen 1 | Imagen 2 |
