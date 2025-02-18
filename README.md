@@ -26,15 +26,15 @@ Instrumento de evaluación de la Unidad I de la materia Aplicaciones de IoT
 ## Actividades en pareja.
 - [Actividad 1 y 2 parejas]()
 ### Códigos:
-- [Diagrama de conexión]()
+- [Diagrama de conexión](https://drive.google.com/file/d/1Z5yQZsXDXgcedLCH3gsuihzuxUKnMuXe/view?usp=drive_link)
 
-- [Código Python Documentado]()
+- [Código Python Documentado](https://drive.google.com/file/d/1ZUmbq6Y5RqkkJ_RrJLiuGSuYi21Kj2Ih/view?usp=drive_link)
 
 ## Actividades individuales.
-- [CRUD en PostgreSQL]()
+- [CRUD en PostgreSQL](https://drive.google.com/file/d/1hrd63iU5XqIcf64Su4R_Zquufry93_7A/view?usp=drive_link)
 - [Instalación y Configuraciones Básicas]()
 - [LED y Botón con Raspberry Pi]()
-- [LED con Raspberry Pi]()
+- [LED con Raspberry Pi](https://drive.google.com/file/d/13VAt7K7FHOF-ZjDfv2XtxmJ2gM69RNLr/view?usp=drive_link)
 - [Conexión MQTT en Node-RED]()
 
 ## Placa Fenólica
